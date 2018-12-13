@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="main.css">
+    <title>Digiminds 2.0</title>
+    <link rel="shortcut icon" type="image/png" href="Images/Team_Logo.jpg">
+  </head>
+  <body>
+    <div class="headers">
+    <p class="header">Digiminds 2.0 Team #13627</p>
+    <br>
+      <div class="links">
+        <a href="CAD/index.html" class="cad">3D Models</a>
+        <a href="#" class="cad">Business Plan</a>
+        <a href="#" class="cad">Our Robot</a>
+        <a href="#" class="cad">Outreach</a>
+        <a href="#" class="cad">Weekly Progress</a>
+        <a href="#" class="cad">Tips For Other Teams</a>
+
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+
+
+html, body, h1, h2, p, ul, ol, img, h4 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-size: 100%;
+    font:inherit;
+	font-family: helvetica, "Helvetica Neue", sans-serif;
+}
+body{
+  background-color: #FFF221;
+}
+.headers{
+  font-weight: bold;
+  background-color: red;
+  color: yellow;
+}
+.header{
+
+  font-size: 24px;
+}
+.links{
+    font-size: 16px;
+
+
+}
+.cad{
+  color: white;
+
+
+}
